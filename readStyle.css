@@ -1,0 +1,57 @@
+html {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #FDF0D5;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-weight: 200;
+  }
+  body {
+    margin: 0;
+  }
+  .r2 {
+    margin-top: 0;
+  }
+  #logo {
+    height: 7.5vw;
+    width: 15vw;
+    float: right;
+    margin-right: 2.5vw;
+    padding: 1vw;
+  }
+  #main {
+    color: #C1121F;
+    float: left;
+    left: 0;
+    font-size: 6vw;
+    font-weight: light;
+    padding-top: 0vw;
+    padding-left: 2vw;
+    margin-top: 1vw;
+    margin-left: 4vw;
+    z-index: 9;
+    width: 60vw;
+    position: absolute;
+  }
+  #main:hover { 
+    color: #780000; 
+  }
+  #rectangleEryn {
+    height: 60px;
+    width: 60vw;
+    background-color: white;
+    float: left;
+    margin-right: 0;
+    margin-top: 5vw;
+    margin-bottom: 5vw
+  }
+  #footer {
+    width: 100%;
+    height: 10%;
+    float: bottom;
+    bottom: 0;
+    margin-top: 100%;
+    position: absolute;
+    background-color: #fae3b4;
+    z-index: 10;
+  }
